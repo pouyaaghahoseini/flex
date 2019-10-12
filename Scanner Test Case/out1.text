@@ -1,0 +1,45 @@
+str is an identifier
+: is a delimiter
+string is a keyword
+ = is a mathematical operator
+ " is a delimiter
+" is a delimiter
+; is a delimiter
+
+
+str is an identifier
+: is a delimiter
+string is a keyword
+ = is a mathematical operator
+ " is a delimiter
+hello is an identifier
+ this is an identifier
+ is is an identifier
+ a is an identifier
+ string is a keyword
+!" is a delimiter
+; is a delimiter
+
+str is an identifier
+: is a delimiter
+string is a keyword
+ = is a mathematical operator
+ " is a delimiter
+hello is an identifier
+ this is an identifier
+ is is an identifier
+ \1 is a digit
+ a is an identifier
+ string is a keyword
+!" is a delimiter
+; is a delimiter
+
+
+str is an identifier
+: is a delimiter
+string is a keyword
+ = is a mathematical operator
+ " is a delimiter
+11234567891123456789112345678911234567891123456789112345678911234567891123456789112345678911234567891123456789112345678911234567891123456789112345678911234567 is a number
+" is a delimiter
+

@@ -1,0 +1,76 @@
+main is an identifier
+: is a delimiter
+ function is a keyword
+ integer is a keyword
+ ( is a delimiter
+ integer is a keyword
+, string is a keyword
+ ) is a delimiter
+ = is a mathematical operator
+
+{
+}
+boolFunction is an identifier
+: is a delimiter
+ function is a keyword
+ boolean is a keyword
+( is a delimiter
+intVar is an identifier
+: is a delimiter
+integer is a keyword
+) is a delimiter
+ = is a mathematical operator
+
+{
+	return is a keyword
+ intVar is an identifier
+ > 5 is a digit
+; is a delimiter
+
+}
+intFunction is an identifier
+: is a delimiter
+ function is a keyword
+ integer is a keyword
+( is a delimiter
+integer is a keyword
+ n is an identifier
+) is a delimiter
+ = is a mathematical operator
+
+{
+	total is an identifier
+: is a delimiter
+integer is a keyword
+ = is a mathematical operator
+ 0 is a digit
+; is a delimiter
+
+	int is an identifier
+ count is an identifier
+; is a delimiter
+
+	for is a keyword
+( is a delimiter
+count is an identifier
+ = is a mathematical operator
+ 0 is a digit
+; is a delimiter
+ count is an identifier
+ < n is an identifier
++ is a mathematical operator
+1 is a digit
+; is a delimiter
+ count is an identifier
++ is a mathematical operator
++ is a mathematical operator
+) is a delimiter
+
+	{
+		total is an identifier
+ = is a mathematical operator
+ total is an identifier
+ + is a mathematical operator
+ count is an identifier
+; is a delimiter
+

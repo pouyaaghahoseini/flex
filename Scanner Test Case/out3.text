@@ -1,0 +1,157 @@
+intFunction is an identifier
+: is a delimiter
+ function is a keyword
+ integer is a keyword
+( is a delimiter
+intVar is an identifier
+: is a delimiter
+integer is a keyword
+, boolVar is an identifier
+: is a delimiter
+ boolean is a keyword
+) is a delimiter
+
+{
+	if is a keyword
+( is a delimiter
+boolVar is an identifier
+) is a delimiter
+
+	{
+		intVar is an identifier
+ = is a mathematical operator
+ intVar is an identifier
+ * is a mathematical operator
+ 2 is a digit
+; is a delimiter
+
+	}
+	return is a keyword
+ intVar is an identifier
+; is a delimiter
+
+}
+getLargest is an identifier
+: is a delimiter
+ function is a keyword
+ integer is a keyword
+( is a delimiter
+intArrVar is an identifier
+: is a delimiter
+array is a keyword
+ [] integer is a keyword
+, int is an identifier
+ len is an identifier
+) is a delimiter
+ = is a mathematical operator
+
+{
+	largest is an identifier
+: is a delimiter
+integer is a keyword
+ = is a mathematical operator
+ 0 is a digit
+; is a delimiter
+
+	x is an identifier
+: is a delimiter
+integer is a keyword
+; is a delimiter
+
+	for is a keyword
+( is a delimiter
+x is an identifier
+ = is a mathematical operator
+ 0 is a digit
+; is a delimiter
+ x is an identifier
+ < len is an identifier
+; is a delimiter
+ x is an identifier
++ is a mathematical operator
++ is a mathematical operator
+) is a delimiter
+
+	{
+		if is a keyword
+( is a delimiter
+intArrVar is an identifier
+[x is an identifier
+] > largest is an identifier
+) is a delimiter
+
+		{
+			largest is an identifier
+ = is a mathematical operator
+ intArrVar is an identifier
+[x is an identifier
+]; is a delimiter
+
+		}
+	}
+	return is a keyword
+ largest is an identifier
+; is a delimiter
+
+		
+}
+
+main is an identifier
+: is a delimiter
+ function is a keyword
+ integer is a keyword
+ ( is a delimiter
+ argc is an identifier
+: is a delimiter
+ integer is a keyword
+, argv is an identifier
+: is a delimiter
+ array is a keyword
+ [] string is a keyword
+ ) is a delimiter
+ = is a mathematical operator
+
+{
+	b is an identifier
+: is a delimiter
+array is a keyword
+ [10 is a number
+] integer is a keyword
+ = is a mathematical operator
+ {0 is a digit
+,1 is a digit
+,2 is a digit
+,3 is a digit
+,4 is a digit
+,5 is a digit
+}; is a delimiter
+
+	b is an identifier
+[4 is a digit
+] = is a mathematical operator
+ 6 is a digit
+; is a delimiter
+
+	i is an identifier
+: is a delimiter
+integer is a keyword
+; is a delimiter
+
+	z is an identifier
+: is a delimiter
+integer is a keyword
+ = is a mathematical operator
+ intFunction is an identifier
+( is a delimiter
+i is an identifier
+, true is a keyword
+) is a delimiter
+; is a delimiter
+
+	print is a keyword
+ intArrFunction is an identifier
+( is a delimiter
+v is an identifier
+, z is an identifier
+) is a delimiter
+; is a delimiter

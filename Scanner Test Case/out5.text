@@ -1,0 +1,38 @@
+number is an identifier
+: is a delimiter
+ integer is a keyword
+; is a delimiter
+
+number is an identifier
+ = is a mathematical operator
+ 56 is a number
+; is a delimiter
+
+number is an identifier
+ = is a mathematical operator
+ - is a mathematical operator
+56 is a number
+; is a delimiter
+
+number is an identifier
+ = is a mathematical operator
+ + is a mathematical operator
+56 is a number
+; is a delimiter
+
+number is an identifier
+ = is a mathematical operator
+ 0005006 is a number
+; is a delimiter
+
+number is an identifier
+ = is a mathematical operator
+ + is a mathematical operator
+0005006 is a number
+; is a delimiter
+
+number is an identifier
+ = is a mathematical operator
+ - is a mathematical operator
+000050006 is a number
+; is a delimiter

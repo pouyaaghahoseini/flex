@@ -1,0 +1,33 @@
+character is an identifier
+: is a delimiter
+	 	char is a keyword
+ = is a mathematical operator
+ 'c is an identifier
+'; is a delimiter
+
+character is an identifier
+: is a delimiter
+ char is a keyword
+ = is a mathematical operator
+ '\n is an identifier
+'; is a delimiter
+
+character is an identifier
+: is a delimiter
+	char is a keyword
+ = is a mathematical operator
+ '\0 is a digit
+'; is a delimiter
+
+character is an identifier
+ = is a mathematical operator
+ '\6 is a digit
+'; is a delimiter
+
+character is an identifier
+ = is a mathematical operator
+ '\c is an identifier
+'
+character is an identifier
+ = is a mathematical operator
+ '\t is an identifier
